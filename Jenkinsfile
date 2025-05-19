@@ -69,6 +69,7 @@ pipeline {
                 body: "Something went wrong in the pipeline. Please check the Jenkins logs.",
                 attachLog: true
             )
-        }
-    }
+        }
+    }
 }
+
